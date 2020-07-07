@@ -18,9 +18,6 @@ The Realme 1 (codenamed _"CPH1861"_ and _"CPH1859"_) is a mid-range smartphone f
 
 1. Decryption
 
-## Downloads
-
-https://github.com/buddi56/dummy_CPH1861_TWRP/releases
 
 ## Device specifications
 
