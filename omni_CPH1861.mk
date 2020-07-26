@@ -23,9 +23,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/embedded.mk)
 $(call inherit-product, vendor/pb/config/common.mk)
 
 # Device identifier.
-PRODUCT_BRAND := OPPO
+PRODUCT_BRAND := oppo
 PRODUCT_DEVICE := CPH1861
-PRODUCT_MANUFACTURER := OPPO
+PRODUCT_MANUFACTURER := oppo
 PRODUCT_MODEL := CPH1861
 PRODUCT_NAME := omni_CPH1861
 
