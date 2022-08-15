@@ -33,4 +33,3 @@ workflows:
           filters:
             branches:
               only: main
-          context: org-global
